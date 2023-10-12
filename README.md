@@ -4,15 +4,15 @@
 
 **The program includes 3 main features :**
 
-1. **clock:**
+1. **clock:** <br>
           * Display the device time in 24/12 hours format. <br>
    
-2. **AZAN TIMINGS:**
+2. **AZAN TIMINGS:** <br>
           * Display the time for prayer. <br>
           * Set prayer timers (in 24hrs format) . <br>
           * Play Azan/Alarm according to the given prayer time. <br>
    
-4. **DUAS:**
+4. **DUAS:** <br>
           * Display and play audio of basic supplications/duas.
 
 For a clear overview about the program , please refer to the video tutorial in the file named **Azan clock tutorial.mp4** .
